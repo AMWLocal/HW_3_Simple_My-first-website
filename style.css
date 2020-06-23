@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    background-color:#A52A2A;
+    color: white;
+}
+.big_img{
+    text-align: center;
+}
+.text_up{
+    text-align: left;
+}
+.img_car{
+    border: dotted;
+}
+.link{
+    text-decoration: none
+}
+    ;
+.text_down{
+    text-align: left;
+}
+.copy{
+    font-size: 20px;
+    background-color: black;
+    color:white
+}
